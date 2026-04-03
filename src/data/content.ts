@@ -1,5 +1,4 @@
 import introAudio from "../WhatsApp Ptt 2026-03-28 at 01.06.10.ogg";
-import careInSilenceAudio from "../WhatsApp Ptt 2026-03-28 at 01.43.52.ogg";
 import whenIPThinkOfYouAudio from "../WhatsApp Ptt 2026-03-28 at 01.53.04.ogg";
 import celebrateFirstAudio from "../WhatsApp Ptt 2026-03-28 at 12.01.57.ogg";
 import celebrateLastAudio from "../WhatsApp Ptt 2026-03-28 at 16.26.13.ogg";
@@ -40,10 +39,6 @@ const content: ContentData = {
         "Um espaço para lembrar que amor também mora nos detalhes pequenos e nos dias comuns.",
       audios: [
         {
-          title: "Jeitos de te cuidar em silêncio",
-          file: careInSilenceAudio,
-        },
-        {
           title: "Quando eu penso em você",
           file: whenIPThinkOfYouAudio,
         },
@@ -59,10 +54,6 @@ const content: ContentData = {
         {
           title: "Respira, vai passar",
           file: difficultDaysFirstAudio,
-        },
-        {
-          title: "Um colo em forma de voz",
-          file: "/audios/dia-dificil-2.mp3",
         },
       ],
     },

@@ -1,7 +1,6 @@
 import { AnimatePresence, motion } from "framer-motion";
 import { Route, Routes, useLocation } from "react-router-dom";
 import FloatingBackButton from "./components/FloatingBackButton";
-import BookSection from "./pages/BookSection";
 import CategoryPage from "./pages/CategoryPage";
 import IntroAudioScreen from "./pages/IntroAudioScreen";
 import LandingScreen from "./pages/LandingScreen";
@@ -31,7 +30,6 @@ function App() {
             <Route path="/intro" element={<IntroAudioScreen />} />
             <Route path="/menu" element={<MainMenu />} />
             <Route path="/categoria/:slug" element={<CategoryPage />} />
-            <Route path="/livros" element={<BookSection />} />
             <Route path="*" element={<LandingScreen />} />
           </Routes>
         </motion.div>

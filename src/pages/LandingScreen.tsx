@@ -12,14 +12,14 @@ const isValidSpecialDate = (value: string) => {
 
   const allowedPatterns = [
     /^0404$/, // 0404
-    /^04[\/\-.]04$/, // 04/04 | 04-04 | 04.04
-    /^4[\/\-.]4$/, // 4/4 | 4-4 | 4.4
+    /^04[./-]04$/, // 04/04 | 04-04 | 04.04
+    /^4[./-]4$/, // 4/4 | 4-4 | 4.4
     /^0404\d{2}$/, // 0404AA
     /^0404\d{4}$/, // 0404AAAA
-    /^04[\/\-.]04[\/\-.]\d{2}$/, // 04/04/AA
-    /^04[\/\-.]04[\/\-.]\d{4}$/, // 04/04/AAAA
-    /^4[\/\-.]4[\/\-.]\d{2}$/, // 4/4/AA
-    /^4[\/\-.]4[\/\-.]\d{4}$/, // 4/4/AAAA
+    /^04[./-]04[./-]\d{2}$/, // 04/04/AA
+    /^04[./-]04[./-]\d{4}$/, // 04/04/AAAA
+    /^4[./-]4[./-]\d{2}$/, // 4/4/AA
+    /^4[./-]4[./-]\d{4}$/, // 4/4/AAAA
   ];
 
   return allowedPatterns.some((pattern) => pattern.test(normalized));
@@ -87,9 +87,8 @@ export default function LandingScreen() {
 
         <div className="mt-6 space-y-1.5 text-center text-sm leading-relaxed text-black/60 sm:text-base">
           <p className="font-medium text-black/70">Para Inae Ferreira</p>
-          <p>De: Daniel França</p>
           <p className="pt-1 italic text-black/75">
-            P.S Com muito amor, Eu te amo
+            Com Carinho Dani!
           </p>
         </div>
       </motion.section>

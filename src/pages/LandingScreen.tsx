@@ -71,8 +71,8 @@ export default function LandingScreen() {
         </p>
 
         <h1 className="mx-auto max-w-2xl font-display text-[2.2rem] leading-[1.12] text-black/85 sm:text-[3.9rem] sm:leading-[1.08]">
-          Se um dia você quiser me ouvir…
-          <span className="block">eu vou estar aqui.</span>
+        Pra você
+          <span className="block">Com muito carinho!</span>
         </h1>
 
         <button

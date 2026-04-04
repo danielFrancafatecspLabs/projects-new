@@ -71,7 +71,7 @@ export default function LandingScreen() {
         </p>
 
         <h1 className="mx-auto max-w-2xl font-display text-[2.2rem] leading-[1.12] text-black/85 sm:text-[3.9rem] sm:leading-[1.08]">
-        Pra você
+        Pra você,
           <span className="block">Com muito carinho!</span>
         </h1>
 
@@ -88,7 +88,7 @@ export default function LandingScreen() {
         <div className="mt-6 space-y-1.5 text-center text-sm leading-relaxed text-black/60 sm:text-base">
           <p className="font-medium text-black/70">Para Inae Ferreira</p>
           <p className="pt-1 italic text-black/75">
-            Com Carinho Dani!
+            Com Carinho, Dani!
           </p>
         </div>
       </motion.section>

@@ -8,7 +8,7 @@ const birthdayMessage = `E aí, aniversariante… meia-noite chegou, e já é di
 
 Hoje é o seu dia. E, de verdade, que alegria poder estar aqui, mesmo que de longe, comemorando você. Queria poder te dar um abraço apertado, te ver de perto, te dar um beijo… mas mesmo assim fico feliz só de saber que essa mensagem vai chegar até você.
 
-Primeiro, eu quero te desejar tudo de melhor que a vida pode oferecer. Muita saúde, muita paz, muitas conquistas… mas, principalmente, muito amor. Mas muito amor mesmo. Porque se tem uma coisa que define você, é isso: você é amor.
+Primeiro, eu quero te desejar tudo de melhor que a vida pode oferecer. Muita saúde, muita paz, muitas conquistas… mas, principalmente, muito amor. Mas muito amor mesmo. Porque se tem uma coisa que define você, é isso: você é  amor. Amor? É… amor mesmo, é assim que eu definiria você!
 
 Você ama de um jeito leve, gratuito, sem precisar provar nada pra ninguém… e ainda assim é algo imenso, verdadeiro, raro. Muito raro.
 
@@ -28,15 +28,15 @@ Então hoje, no seu dia, eu só espero que você continue sendo exatamente isso:
 
 Que esse novo ciclo venha leve, mas cheio de coisas boas. Que a vida te devolva, em dobro, todo o amor que você coloca no mundo.
 
-Se houver um amanhã que não estejamos juntos, existe uma coisa que você precisa lembrar… você é mais corajosa do que imagina, mais forte do que parece… mas acima de tudo, você é alguém que ama de verdade. E isso sempre vai te fazer única.
+Como não consegui entregar seu presente em mãos deixei parte dele aqui nesse espaço… não precisa ver e ouvir hoje ou amanhã. É só algo simples para que esteja com você sempre!
 
-Ah… e tem mais uma coisa.
+Independente da onde esteja, com quem esteja e o que esteja fazendo, eu vou sempre, verdadeiramente, me lembrar de você.
 
-Seus presentes estão comigo. Eu fiz tudo com muito carinho, pensando em você em cada detalhe.
-Como estamos afastados achei melhor te entregar em uma hora mais oportuna em que você se sentisse confortável.
+Aproveite seu dia!
 
-Feliz aniversário.
-Aproveita seu dia 🤍`;
+Amo você,
+Com carinho
+Dani 🤍`;
 
 const birthdayParagraphs = birthdayMessage.split("\n\n");
 

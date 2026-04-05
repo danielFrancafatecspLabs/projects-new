@@ -17,6 +17,7 @@ import ibirapueraCover from "../assets/download (2).jpg";
 import firstBookAudio from "../WhatsApp Ptt 2026-03-28 at 11.40.46.ogg";
 import himymCover from "../assets/download.jpg";
 import himymAudio from "../WhatsApp Ptt 2026-03-28 at 17.08.07.ogg";
+import doorsParableAudio from "../WhatsApp Ptt 2026-04-05 at 16.24.29.ogg";
 
 export default function CategoryPage() {
   const { slug } = useParams();
@@ -309,6 +310,15 @@ export default function CategoryPage() {
                             <h3 className="font-display text-2xl text-black/85 sm:text-3xl">
                               {section.title}
                             </h3>
+
+                            {section.title === "🚪 A parábola das portas" ? (
+                              <div className="mt-4">
+                                <AudioPlayer
+                                  src={doorsParableAudio}
+                                  size="sm"
+                                />
+                              </div>
+                            ) : null}
 
                             {section.paragraphs.map((paragraph, textIndex) => (
                               <p

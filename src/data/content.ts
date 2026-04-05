@@ -168,8 +168,6 @@ E o que ficou… foi grande demais pra ser ignorado.
 
 🚪 A parábola das portas
 
-E talvez, no meio de tudo isso, exista uma coisa que explicou muito do que eu estava sentindo e não conseguia organizar.
-
 Havia, em um lugar onde o tempo não corria — apenas se acumulava — um corredor infinito de portas.
 
 Cada porta representava um encontro. Algumas eram leves como vento de verão: abriam e fechavam no mesmo instante, quase sem deixar rastro. Outras, no entanto, tinham dobradiças mais profundas… e quando se abriam, pareciam não conhecer o gesto de fechar.

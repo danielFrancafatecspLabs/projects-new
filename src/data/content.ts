@@ -167,64 +167,6 @@ Eu vejo o que ficou.
 E o que ficou…
 foi grande demais pra ser ignorado.
 
-🎁 Sobre o que eu tentei guardar
-
-E talvez, no meio de tudo isso, exista uma coisa que eu nunca te contei direito.
-
-No dia 21 de fevereiro, quando você saiu do Airbnb… eu lembro exatamente de como eu fiquei. Meio sem reação, meio tentando entender o que você tinha me dito, principalmente aquilo sobre não saber se estava apaixonada por mim. Aquilo ficou ecoando de um jeito que eu não consegui simplesmente ignorar.
-
-E naquele mesmo dia, ainda meio perdido, eu fiz uma coisa que, na hora, pareceu a única que fazia sentido.
-
-Eu comprei um colar.
-
-Um colar com o símbolo do infinito.
-
-Não como um presente qualquer… mas como uma forma de segurar alguma coisa. Como se, de alguma forma, aquilo pudesse representar o que eu não queria perder. Porque, naquele momento, eu realmente não acreditava que eu não te veria mais. Eu não aceitava essa ideia. E aquele colar virou, na minha cabeça, uma espécie de ponto de retorno. Como se, toda vez que a gente pensasse em sair da vida um do outro, existisse algo que lembrasse a gente de ficar.
-
-Mas três dias depois… veio a realidade.
-
-Veio a sua escolha de ir embora.
-
-E aquilo que, pra mim, ainda parecia um “a gente dá um jeito”… deixou de existir da mesma forma.
-
-Eu guardei o colar.
-
-Guardei com muito cuidado.
-
-E falei pra mim mesmo que te daria no seu aniversário. Como se o tempo pudesse, de alguma forma, organizar tudo e devolver sentido pra aquilo. Como se o que fosse realmente pra ser infinito… encontrasse o caminho de volta.
-
-Mas as coisas não seguiram esse caminho.
-
-Elas foram se desenhando de outro jeito.
-
-E eu não consegui, nem naquele momento, nem depois… colocar esse colar no seu pescoço. Nem te entregar esse presente.
-
-Então eu vou deixar a imagem dele aqui.
-
-Não como um gesto pra tentar resgatar algo…
-
-mas como um registro.
-
-Pra você saber que aquilo existiu.
-
-Que aquilo foi importante.
-
-E que, mesmo com todos os meus erros… eu nunca me imaginei longe de você.
-
-Eu vou guardar esse colar.
-
-E os outros presentes que eu separei também.
-
-Mas não como algo inacabado.
-
-E sim como uma lembrança.
-
-Do que você foi pra mim.
-
-Do que isso significou.
-
-E, talvez, como uma forma silenciosa de sempre lembrar de tudo que eu aprendi.
-
 🚪 A parábola das portas
 
 E talvez, no meio de tudo isso, exista uma coisa que explicou muito do que eu estava sentindo e não conseguia organizar.

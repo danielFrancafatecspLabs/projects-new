@@ -11,8 +11,6 @@ import movieAudio2 from "../WhatsApp Ptt 2026-03-28 at 10.25.06.ogg";
 import SurprisePhrasesGame from "../components/SurprisePhrasesGame";
 import CelebrateRemindersGame from "../components/CelebrateRemindersGame";
 import loveSectionCover from "../assets/WhatsApp Image 2026-03-28 at 11.23.30.jpeg";
-import giftMemoryImage1 from "../assets/WhatsApp Image 2026-04-05 at 13.40.55.jpeg";
-import giftMemoryImage2 from "../assets/WhatsApp Image 2026-04-05 at 13.40.56.jpeg";
 import botanikafeCover from "../assets/images (2).jpg";
 import maspCover from "../assets/download (1).jpg";
 import ibirapueraCover from "../assets/download (2).jpg";
@@ -239,10 +237,7 @@ export default function CategoryPage() {
               {audio.text
                 ? (() => {
                     const fullText = audio.text;
-                    const sectionTitles = [
-                      "🎁 Sobre o que eu tentei guardar",
-                      "🚪 A parábola das portas",
-                    ];
+                    const sectionTitles = ["🚪 A parábola das portas"];
 
                     const foundSections = sectionTitles
                       .map((title) => ({
@@ -323,22 +318,6 @@ export default function CategoryPage() {
                                 {paragraph}
                               </p>
                             ))}
-
-                            {section.title ===
-                            "🎁 Sobre o que eu tentei guardar" ? (
-                              <div className="mt-5 grid gap-3 sm:grid-cols-2">
-                                <img
-                                  src={giftMemoryImage1}
-                                  alt="Imagem do presente 1"
-                                  className="h-full w-full rounded-2xl border border-black/15 object-cover shadow-sm"
-                                />
-                                <img
-                                  src={giftMemoryImage2}
-                                  alt="Imagem do presente 2"
-                                  className="h-full w-full rounded-2xl border border-black/15 object-cover shadow-sm"
-                                />
-                              </div>
-                            ) : null}
                           </div>
                         ))}
                       </>

@@ -242,121 +242,26 @@ E existe um jeito seu de amar que não deveria nunca ser reduzido a erro, peso o
 Talvez o amor, no fim, seja isso: encontrar alguém e, aos poucos, aprender que a existência dela merece ser lida com calma.
 
 Você, pra mim, sempre mereceu.`,
-  "coisas-que-eu-queria-te-dizer-com-calma": `Desculpa. Desculpa.
+  "coisas-que-eu-queria-te-dizer-com-calma": `O MENESTREL
 
-Eu acho que essa é a primeira coisa que eu precisava te dizer aqui, com calma, sem interrupção, sem pressa e sem tentar justificar nada. Só dizer, de forma direta, mas ao mesmo tempo consciente de tudo que aconteceu.
+Depois de algum tempo, você aprende a diferença, a sutil diferença, entre dar a mão e acorrentar uma alma. E você aprende que amar não significa apoiar-se, e que companhia nem sempre significa segurança. E começa a aprender que beijos não são contratos e presentes não são promessas. E começa a aceitar suas derrotas com a cabeça erguida e olhos adiante, com a graça de um adulto e não com a tristeza de uma criança.
 
-Porque não é uma desculpa leve. Não é daquelas que a gente fala pra encerrar um assunto ou pra aliviar o próprio lado. É uma desculpa que veio depois de pensar bastante, de revisitar momentos, falas, atitudes… e, principalmente, depois de olhar pra mim com mais sinceridade.
+E aprende a construir todas as suas estradas no hoje, porque o terreno do amanhã é incerto demais para os planos, e o futuro tem o costume de cair em meio ao vão. Depois de um tempo você aprende que o sol queima se ficar exposto por muito tempo. E aprende que não importa o quanto você se importe, algumas pessoas simplesmente não se importam... E aceita que não importa quão boa seja uma pessoa, ela vai feri-lo de vez em quando e você precisa perdoá-la, por isso. Aprende que falar pode aliviar dores emocionais.
 
-Eu errei na forma como eu lidei com as coisas entre a gente.
+Descobre que se levam anos para se construir confiança e apenas segundos para destruí-la, e que você pode fazer coisas em um instante das quais se arrependerá pelo resto da vida. Aprende que verdadeiras amizades continuam a crescer mesmo a longas distâncias. E o que importa não é o que você tem na vida, mas quem você tem na vida. E que bons amigos são a família que nos permitiram escolher. Aprende que não temos que mudar de amigos se compreendemos que os amigos mudam, percebe que seu melhor amigo e você podem fazer qualquer coisa, ou nada, e terem bons momentos juntos.
 
-E quando eu digo isso, não é sobre um momento específico. Não é sobre um dia isolado ou uma conversa em particular. É sobre um conjunto de coisas que, somadas, acabaram criando um peso que não precisava existir daquela forma.
+Descobre que as pessoas com quem você mais se importa na vida são tomadas de você muito depressa, por isso sempre devemos deixar as pessoas que amamos com palavras amorosas, pode ser a última vez que as vejamos. Aprende que as circunstâncias e os ambientes têm influência sobre nós, mas nós somos responsáveis por nós mesmos. Começa a aprender que não se deve comparar com os outros, mas com o melhor que pode ser. Descobre que se leva muito tempo para se tornar a pessoa que quer ser, e que o tempo é curto. Aprende que não importa onde já chegou, mas onde está indo, mas se você não sabe para onde está indo, qualquer lugar serve. Aprende que, ou você controla seus atos ou eles o controlarão, e que ser flexível não significa ser fraco ou não ter personalidade, pois não importa quão delicada e frágil seja uma situação, sempre existem dois lados.
 
-Eu errei no tempo.
+Aprende que heróis são pessoas que fizeram o que era necessário fazer, enfrentando as consequências. Aprende que paciência requer muita prática. Descobre que algumas vezes a pessoa que você espera que o chute quando você cai é uma das poucas que o ajudam a levantar-se.
 
-Errei em não respeitar o tempo das coisas como elas estavam acontecendo. Em tentar antecipar respostas, em querer entender tudo rápido demais, em não aceitar que algumas coisas simplesmente ainda estavam em construção.
+Aprende que maturidade tem mais a ver com os tipos de experiência que se teve e o que você aprendeu com elas do que com quantos aniversários você celebrou. Aprende que há mais dos seus pais em você do que você supunha. Aprende que nunca se deve dizer a uma criança que sonhos são bobagens, poucas coisas são tão humilhantes e seria uma tragédia se ela acreditasse nisso.
 
-E, no meio disso, eu acabei confundindo intensidade com urgência.
+Aprende que quando está com raiva tem o direito de estar com raiva, mas isso não te dá o direito de ser cruel. Descobre que só porque alguém não o ama do jeito que você quer que ame, não significa que esse alguém não o ama, com tudo o que pode, pois existem pessoas que nos amam, mas simplesmente não sabem como demonstrar ou viver isso.
+Aprende que nem sempre é suficiente ser perdoado por alguém, algumas vezes você tem que aprender a perdoar-se a si mesmo. Aprende que com a mesma severidade com que julga, você será em algum momento condenado. Aprende que não importa em quantos pedaços seu coração foi partido, o mundo não para para que você o conserte. Aprende que o tempo não é algo que possa voltar para trás.
 
-Sentir muito não significa que tudo precisa ser resolvido na hora. Mas, naquele momento, eu não soube fazer essa distinção. E isso fez com que eu atropelasse etapas que talvez precisassem só de mais calma.
+Portanto... plante seu jardim e decore sua alma, ao invés de esperar que alguém lhe traga flores. E você aprende que realmente pode suportar... que realmente é forte, e que pode ir muito mais longe depois de pensar que não se pode mais. E que realmente a vida tem valor e que você tem valor diante da vida!
 
-Eu errei no jeito.
-
-No jeito de falar, no jeito de reagir, no jeito de me posicionar. Em alguns momentos, eu deixei a emoção falar mais alto do que a consciência. E quando isso acontece, a gente não fala exatamente o que pensa — a gente fala o que está sentindo naquele segundo. E nem sempre isso é justo.
-
-Nem com quem está ouvindo, nem com o que realmente existe por trás daquilo.
-
-Eu errei também nas palavras.
-
-Em coisas que eu disse, em coisas que talvez eu não deveria ter dito, ou que poderiam ter sido ditas de outra forma. Às vezes, não é nem o conteúdo… é o jeito. O momento. O tom.
-
-E eu sei que, em alguns momentos, isso pode ter pesado.
-
-Pode ter te deixado desconfortável, confusa ou até afastado você de um lugar que antes era leve. E isso é algo que eu realmente sinto.
-
-Porque, olhando hoje com mais clareza, eu percebo que eu poderia ter sido mais cuidadoso.
-
-Mais atento.
-
-Mais responsável com o que eu estava colocando ali entre a gente.
-
-E talvez um dos pontos mais importantes seja esse: eu deixei minhas inseguranças falarem mais alto do que deveriam.
-
-Coisas que eram minhas, processos que eram meus, dúvidas que eu ainda estava entendendo… acabaram, de alguma forma, respingando em você.
-
-E isso não é justo.
-
-Porque você não tem responsabilidade sobre aquilo que eu ainda estou aprendendo a lidar.
-
-Você não deveria carregar esse peso.
-
-E eu reconheço isso hoje com mais clareza.
-
-Eu também entendi que, em alguns momentos, eu confundi o que eu sentia com a necessidade de ter uma resposta. Como se o sentimento precisasse de uma definição pra existir. Como se ele só fosse válido se tivesse um nome, um lugar certo, uma direção clara.
-
-E não é assim.
-
-Mas eu só fui entender isso depois.
-
-Depois de errar.
-
-Depois de perceber o impacto das minhas atitudes.
-
-Depois de dar um passo pra trás e olhar tudo com mais calma.
-
-E isso não apaga o que aconteceu.
-
-Mas muda a forma como eu enxergo daqui pra frente.
-
-Porque essa desculpa não é só sobre o passado.
-
-Ela é também sobre consciência.
-
-Sobre entender quem eu fui naquele momento… e quem eu não quero mais ser.
-
-Eu não quero mais ser alguém que transforma sentimento em pressão.
-
-Não quero ser alguém que, por não saber lidar com o que sente, acaba tornando tudo mais pesado.
-
-Eu quero ser alguém que sabe sentir — mas também sabe respeitar o tempo disso.
-
-Que entende que nem tudo precisa ser dito na hora.
-
-Que aprende a pausar antes de reagir.
-
-E eu estou aprendendo isso.
-
-Ainda.
-
-Não é algo que muda de um dia pro outro.
-
-Mas é algo que eu estou, de fato, tentando melhorar.
-
-Tenho refletido mais.
-
-Tenho buscado me entender melhor.
-
-Tenho tentado organizar o que eu sinto antes de transformar isso em palavra.
-
-E isso já muda muita coisa.
-
-Então essa desculpa aqui… é inteira.
-
-Sem justificativa.
-
-Sem “mas”.
-
-Sem tentar equilibrar erro com intenção.
-
-É só reconhecimento.
-
-Eu poderia ter feito melhor.
-
-Eu poderia ter lidado melhor.
-
-E eu sinto muito por isso.
-
-De verdade.`,
+Veronica Shoffstall`,
   "nao-esquece-de-comemorar": `Existe uma forma muito sutil de se esquecer de viver.
 
 Ela não faz barulho.

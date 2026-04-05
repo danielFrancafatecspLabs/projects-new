@@ -170,6 +170,7 @@ não é feito pra acabar.`;
       icon: category.icon,
       title: category.title,
       to: `/categoria/${category.slug}`,
+      isNew: category.slug === "coisas-que-eu-queria-te-dizer-com-calma",
     })),
   ];
 
@@ -326,8 +327,13 @@ não é feito pra acabar.`;
           >
             <Link
               to={card.to}
-              className="group flex h-full items-center gap-3 rounded-2xl border border-black/10 bg-white/75 p-4 shadow-[0_8px_30px_-20px_rgba(0,0,0,0.55)] backdrop-blur transition duration-200 hover:-translate-y-0.5 hover:bg-white"
+              className="group relative flex h-full items-center gap-3 rounded-2xl border border-black/10 bg-white/75 p-4 shadow-[0_8px_30px_-20px_rgba(0,0,0,0.55)] backdrop-blur transition duration-200 hover:-translate-y-0.5 hover:bg-white"
             >
+              {card.isNew ? (
+                <span className="absolute -top-2 right-3 rounded-full bg-rose-500 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-[0.08em] text-white shadow-sm">
+                  NOVO
+                </span>
+              ) : null}
               <span className="text-xl">{card.icon}</span>
               <span className="text-sm font-medium text-black/80">
                 {card.title}

@@ -11,6 +11,8 @@ import movieAudio2 from "../WhatsApp Ptt 2026-03-28 at 10.25.06.ogg";
 import SurprisePhrasesGame from "../components/SurprisePhrasesGame";
 import CelebrateRemindersGame from "../components/CelebrateRemindersGame";
 import loveSectionCover from "../assets/WhatsApp Image 2026-03-28 at 11.23.30.jpeg";
+import giftMemoryImage1 from "../assets/WhatsApp Image 2026-04-05 at 13.40.55.jpeg";
+import giftMemoryImage2 from "../assets/WhatsApp Image 2026-04-05 at 13.40.56.jpeg";
 import botanikafeCover from "../assets/images (2).jpg";
 import maspCover from "../assets/download (1).jpg";
 import ibirapueraCover from "../assets/download (2).jpg";
@@ -23,7 +25,7 @@ export default function CategoryPage() {
 
   const category = content.categories.find((item) => item.slug === slug);
   const isLoveCategory = category?.slug === "todas-as-formas-de-te-amar";
-  const isWorkInProgressCategory =
+  const isCalmCategory =
     category?.slug === "coisas-que-eu-queria-te-dizer-com-calma";
   const showDifficultDaysPlaceRecommendation =
     category?.slug === "para-os-dias-dificeis";
@@ -42,31 +44,6 @@ export default function CategoryPage() {
 
   if (!category) {
     return <Navigate to="/menu" replace />;
-  }
-
-  if (isWorkInProgressCategory) {
-    return (
-      <ScreenFrame
-        title="Em construção"
-        subtitle="Essa parte ainda está sendo preparada com calma. Por enquanto, está bloqueada e indisponível."
-      >
-        <div className="mx-auto max-w-lg rounded-3xl border border-black/10 bg-white/75 p-6 text-center shadow-[0_18px_36px_-24px_rgba(0,0,0,0.35)]">
-          <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-2xl bg-zinc-100 text-3xl">
-            🔒
-          </div>
-          <h2 className="font-display text-3xl text-black/85">
-            Bloqueado por enquanto
-          </h2>
-          <p className="mt-3 text-sm leading-7 text-black/65 sm:text-base">
-            A página de "Coisas que eu queria te dizer com calma" ainda está em
-            construção e, por enquanto, não pode ser acessada.
-          </p>
-          <p className="mt-2 text-sm leading-7 text-black/65 sm:text-base">
-            Quando estiver pronta, eu libero tudo direitinho.
-          </p>
-        </div>
-      </ScreenFrame>
-    );
   }
 
   return (
@@ -163,7 +140,10 @@ export default function CategoryPage() {
       ) : (
         !isLoveCategory && (
           <div className="space-y-4">
-            {category.audios.map((audio, index) => (
+            {(isCalmCategory
+              ? category.audios.slice(0, 1)
+              : category.audios
+            ).map((audio, index) => (
               <motion.article
                 key={audio.title}
                 initial={{ opacity: 0, y: 10 }}
@@ -239,6 +219,135 @@ export default function CategoryPage() {
             )
           )}
         </motion.article>
+      ) : null}
+
+      {isCalmCategory && category.audios.length > 1 ? (
+        <div className="mt-6 space-y-4">
+          {category.audios.slice(1).map((audio, index) => (
+            <motion.article
+              key={audio.title}
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.35, delay: 0.1 + index * 0.05 }}
+              className="rounded-2xl border border-black/10 bg-white/70 p-4"
+            >
+              <h2 className="mb-3 text-base font-medium text-black/85">
+                {audio.title}
+              </h2>
+              <AudioPlayer src={audio.file} size="sm" />
+
+              {audio.text
+                ? (() => {
+                    const fullText = audio.text;
+                    const sectionTitles = [
+                      "🎁 Sobre o que eu tentei guardar",
+                      "🚪 A parábola das portas",
+                    ];
+
+                    const foundSections = sectionTitles
+                      .map((title) => ({
+                        title,
+                        index: fullText.indexOf(title),
+                      }))
+                      .filter((item) => item.index >= 0)
+                      .sort((a, b) => a.index - b.index);
+
+                    const mainText =
+                      foundSections.length > 0
+                        ? fullText.slice(0, foundSections[0].index).trim()
+                        : fullText;
+
+                    const mainParagraphs = mainText
+                      .split("\n\n")
+                      .map((paragraph) => paragraph.trim())
+                      .filter(Boolean);
+
+                    const extraSections = foundSections.map(
+                      (section, index) => {
+                        const start = section.index + section.title.length;
+                        const end =
+                          index < foundSections.length - 1
+                            ? foundSections[index + 1].index
+                            : fullText.length;
+
+                        const body = fullText
+                          .slice(start, end)
+                          .trim()
+                          .split("\n\n")
+                          .map((paragraph) => paragraph.trim())
+                          .filter(Boolean);
+
+                        return {
+                          title: section.title,
+                          paragraphs: body,
+                        };
+                      },
+                    );
+
+                    return (
+                      <>
+                        <div className="mt-5 rounded-2xl border border-black/10 bg-white/80 p-5 sm:p-6">
+                          {mainParagraphs.map((paragraph, textIndex) =>
+                            textIndex === 0 ? (
+                              <h3
+                                key={`calm-audio-main-${textIndex}-${paragraph.slice(0, 16)}`}
+                                className="font-display text-2xl text-black/85 sm:text-3xl"
+                              >
+                                {paragraph}
+                              </h3>
+                            ) : (
+                              <p
+                                key={`calm-audio-main-${textIndex}-${paragraph.slice(0, 16)}`}
+                                className="mt-4 text-sm leading-7 text-black/70 sm:text-base sm:leading-8"
+                              >
+                                {paragraph}
+                              </p>
+                            ),
+                          )}
+                        </div>
+
+                        {extraSections.map((section) => (
+                          <div
+                            key={`calm-audio-section-${section.title}`}
+                            className="mt-5 rounded-2xl border border-black/10 bg-white/80 p-5 sm:p-6"
+                          >
+                            <h3 className="font-display text-2xl text-black/85 sm:text-3xl">
+                              {section.title}
+                            </h3>
+
+                            {section.paragraphs.map((paragraph, textIndex) => (
+                              <p
+                                key={`calm-audio-extra-${section.title}-${textIndex}-${paragraph.slice(0, 16)}`}
+                                className="mt-4 text-sm leading-7 text-black/70 sm:text-base sm:leading-8"
+                              >
+                                {paragraph}
+                              </p>
+                            ))}
+
+                            {section.title ===
+                            "🎁 Sobre o que eu tentei guardar" ? (
+                              <div className="mt-5 grid gap-3 sm:grid-cols-2">
+                                <img
+                                  src={giftMemoryImage1}
+                                  alt="Imagem do presente 1"
+                                  className="h-full w-full rounded-2xl border border-black/15 object-cover shadow-sm"
+                                />
+                                <img
+                                  src={giftMemoryImage2}
+                                  alt="Imagem do presente 2"
+                                  className="h-full w-full rounded-2xl border border-black/15 object-cover shadow-sm"
+                                />
+                              </div>
+                            ) : null}
+                          </div>
+                        ))}
+                      </>
+                    );
+                  })()
+                : null}
+            </motion.article>
+          ))}
+        </div>
       ) : null}
 
       {isLoveCategory ? (
